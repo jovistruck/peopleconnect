@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/peopleconnect.iml" filepath="$PROJECT_DIR$/.idea/modules/peopleconnect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/peopleconnect_main.iml" filepath="$PROJECT_DIR$/.idea/modules/peopleconnect_main.iml" group="peopleconnect" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/peopleconnect_test.iml" filepath="$PROJECT_DIR$/.idea/modules/peopleconnect_test.iml" group="peopleconnect" />
+    </modules>
+  </component>
+</project>
