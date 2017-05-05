@@ -40,6 +40,16 @@ class UsersDatabase {
     fun getUsers() = users
 
     /**
+     * Gets the given user
+     *
+     * @return  true - if the user was successfully added
+     *          false - otherwise
+     */
+    fun getUser(user: String): User? {
+        return users.find { it.username == user }
+    }
+
+    /**
      * Adds the given user only if a user with
      * the same ID doesn't already exist.
      *
